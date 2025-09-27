@@ -73,5 +73,6 @@ The dashboard provides insights into **sales, costs, and order trends** with int
 ---
 
 ## 📷 Dashboard Preview  
+https://github.com/Sanketkshirsagar05/PowerBI-Assignment-Supply-Chain-Data-Exploration/blob/main/Screenshot/Dashboard.png
 
 
